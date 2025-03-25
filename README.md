@@ -11,6 +11,6 @@ source:  https://archive.org/details/PWtu_sahitya-darpan-by-vishvanath-kaviraj-w
 Indexing allows access in two ways:
 * by internal page  N = 2-632
  https://sanskrit-lexicon-scans.github.io/sahityadarpana_nw/appipage/?N
-* by 'pariccheda (1-10) and kārikā
+* by pariccheda (1-10) and kārikā
  https://sanskrit-lexicon-scans.github.io/sahityadarpana/app1/?p,k
  
